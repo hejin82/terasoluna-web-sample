@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: terasoluna.todo-web
+Implementation-Version: 1.0.0
+Built-By: hejin
+Implementation-Vendor-Id: org.hejin
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: TERASOLUNA Framework Team
+
